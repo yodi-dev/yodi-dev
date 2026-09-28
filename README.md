@@ -62,10 +62,6 @@ A photography portfolio platform with portfolio management, articles, booking ma
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yodi-dev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodi-dev&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
 ---
 
 ## Connect With Me
