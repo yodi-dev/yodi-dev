@@ -1,4 +1,4 @@
-# Hi, I'm Awan 👋
+# Hi, I'm Yodi
 
 I'm a **Full-stack Web Developer** focused on building practical, maintainable, and user-friendly web applications.
 
